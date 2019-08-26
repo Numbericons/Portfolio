@@ -627,3 +627,9 @@ header .intro-text {
 .live-link{
 	text-decoration: underline;
 }
+
+.resume-text{
+	color: white;
+	font-size: 18px;
+	font-family: auto;
+}
