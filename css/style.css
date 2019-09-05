@@ -383,6 +383,7 @@ ol.type li a:hover {
 	flex-direction: column;
 	margin-left: 150px;
 	transform: translate(-42%, 50%);
+	justify-content: center;
 	/* transform: translate(-42%, -60%); */
 }
 .hover-bg .hover-text>h4 {
