@@ -22,7 +22,7 @@ h2 {
 	text-transform: uppercase;
 }
 h3, h4 {
-	color: #333;
+	color: black;
 	font-size: 20px;
 	font-weight: 600;
 }
@@ -381,7 +381,9 @@ ol.type li a:hover {
 	transition: all 0.5s;
 	display: flex;
 	flex-direction: column;
-	margin-left: 150px
+	margin-left: 150px;
+	transform: translate(-42%, 50%);
+	/* transform: translate(-42%, -60%); */
 }
 .hover-bg .hover-text>h4 {
 	opacity: 0;
@@ -625,6 +627,7 @@ header .intro-text {
 }
 
 .live-link{
+	color: #6767ef;
 	text-decoration: underline;
 }
 
